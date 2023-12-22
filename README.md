@@ -105,6 +105,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
+![Alt text](<Screenshot 2023-12-22 133846.png>)
+![Alt text](<Screenshot 2023-12-22 133834.png>)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
